@@ -1,0 +1,1 @@
+# imgur-copy-chrome-extension
